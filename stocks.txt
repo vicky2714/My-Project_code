@@ -1,0 +1,19 @@
+Dividend - Return in investment in shares
+Dividend and LTCG are tax free for individuals subjects to limits
+What is the limit of dividend tax free
+
+CNBC
+
+Face Value: 
+
+Pre opening: It is a 15 min session from 9.00 am to 9.15 to absorb heavy fluctuvations in the market.
+AMO (After marker orders) : Orders which are placed between 4.00 pm to 9.15 am. 
+It will be excuted after 9.15. we may place AMO but they will be excuted at 9.15
+
+Gap up opening: If the share price opens at a price higher than the previous day's closing price, it is known as 
+gap of opening
+
+Gap down opening: If the price opens at a  price lower than the previous day's closing price, it is known as 
+gap down opening
+
+
